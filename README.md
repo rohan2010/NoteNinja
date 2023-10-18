@@ -3,11 +3,6 @@
 ## Introduction
 This project delves into the utilization of variational autoencoders to facilitate audio genre interpolation and music generation. The primary objective is to develop an interactive tool capable of transforming the genre of the original audio file into a genre preferred by the user. This will be achieved through an interpolation process within the latent space, ultimately producing an audio output aligned with the user's genre selection.
 
-### Deliverables
-A short writeup explaining the project with screenshots 
-Presentation slides
-Code via GitHub repository
-
 ## Concept 
 An interactive music genre conversion and generation tool using a variational autoencoder (VAE) model.
 
